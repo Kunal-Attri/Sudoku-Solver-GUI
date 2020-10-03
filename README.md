@@ -1,7 +1,7 @@
 # Sudoku_Solver_GUI
 This is a graphical form of sudoku solver of the previous non-GUI version
 
-Just edit the board in main.y and run the program
+Just edit the board in main.py and run the program
 
 Instructions:
 
